@@ -8,4 +8,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{gchart}
   s.add_dependency(%q<hoe>, [">= 1.5.1"])
+  s.summary = %q{GChart exposes the Google Chart API via a friendly Ruby interface}
 end
